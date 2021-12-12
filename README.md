@@ -1,8 +1,7 @@
 # Project 04—2D Platformer
 Project 4 for MSCH-C220
 
-Collect coins, avoid enemies, and don't die. 
-
+Collect coins and avoid the enemies
 ## Implementation
 Built using Godot 3.3.3
 
@@ -18,7 +17,6 @@ For more information about save and load in Godot, visit the Godot documentation
 Assets:htps://Kenney.nl/assets
 
 ## Future Development
-None
 
 ## Created by 
-Logan Hare
+Malakai Smiley
